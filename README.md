@@ -46,6 +46,6 @@ The Customs Declaration Processing System is a console-based application that fa
 -Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 
-##Acknowledgments
+### Acknowledgments
 -Python Documentation
 -Inspiration from customs regulation practices.
